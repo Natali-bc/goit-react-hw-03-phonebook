@@ -1,0 +1,30 @@
+.wrapper {
+  margin-bottom: 10px;
+  border: 1px solid midnightblue;
+  width: 300px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  margin: 10px auto;
+  border-radius: 5px;
+}
+
+.contactList {
+  margin-top: 40px;
+}
+
+.contactListItem {
+  list-style: none;
+  margin-bottom: 10px;
+}
+
+.btnDelete {
+  font-size: medium;
+  width: 100px;
+  height: 25px;
+  border-radius: 3px;
+  color: rgb(10, 10, 10);
+}
+.btnDelete:hover {
+  color: wheat;
+  background-color: blue;
+}
